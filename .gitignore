@@ -45,3 +45,32 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# =========================
+# Unity generated
+# =========================
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]iberary/
+sysinfo.txt
+
+# =========================
+# VS generated
+# =========================
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.unityproj
+*.booproj
+*.tmp
+*.pidb.meta
+
+# =========================
+# Ignore Assets
+# =========================
+# Standard*Assets/
+LightmapSnapshot.asset
+LightmapSnapshot.asset.meta
